@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Presentation page for the n8n AI Agent project.">
+    <title>n8n AI Agent Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to the n8n AI Agent Project</h1>
+        <p>
+            This project showcases the integration of advanced AI Agent capabilities within the <strong>n8n automation platform</strong>.
+            The AI Agent leverages cutting-edge language models to automate workflows, process data, and enhance decision-making processes.
+        </p>
+
+        <p>
+            With this project, we aim to:
+            <ul>
+                <li>Automate complex workflows using AI-driven decision trees.</li>
+                <li>Integrate with external APIs and platforms for enhanced automation.</li>
+                <li>Utilize natural language processing to interact with and process user inputs.</li>
+                <li>Enhance productivity by reducing manual intervention in data processes.</li>
+            </ul>
+        </p>
+
+        <p>
+            If you have any questions about this project or how it functions, please feel free to reach out to our development team.
+        </p>
+
+        <a class="button" href="https://github.com/your-github-repo" target="_blank">Visit Our GitHub Repository</a>
+
+        <div class="footer">
+            &copy; 2025 n8n AI Agent Project. All Rights Reserved.
+        </div>
+    </div>
+</body>
+
+</html>
