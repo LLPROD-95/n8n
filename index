@@ -66,22 +66,22 @@
 
         <p>
             With this project, we aim to:
-            <ul>
-                <li>Automate complex workflows using AI-driven decision trees.</li>
-                <li>Integrate with external APIs and platforms for enhanced automation.</li>
-                <li>Utilize natural language processing to interact with and process user inputs.</li>
-                <li>Enhance productivity by reducing manual intervention in data processes.</li>
-            </ul>
         </p>
+        <ul>
+            <li>Automate complex workflows using AI-driven decision trees.</li>
+            <li>Integrate with external APIs and platforms for enhanced automation.</li>
+            <li>Utilize natural language processing to interact with and process user inputs.</li>
+            <li>Enhance productivity by reducing manual intervention in data processes.</li>
+        </ul>
 
         <p>
             If you have any questions about this project or how it functions, please feel free to reach out to our development team.
         </p>
 
-        <a class="button" href="https://github.com/your-github-repo" target="_blank">Visit Our GitHub Repository</a>
+        <a class="button" href="https://github.com/your-github-repo" target="_blank" alt="Visit Our GitHub Repository">Visit Our GitHub Repository</a>
 
         <div class="footer">
-            &copy; 2025 n8n AI Agent Project. All Rights Reserved.
+            &copy; 2023 n8n AI Agent Project. All Rights Reserved.
         </div>
     </div>
 </body>
